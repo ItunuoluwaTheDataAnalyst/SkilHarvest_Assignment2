@@ -40,24 +40,12 @@ Google Sheet to collect the data
 
 Microsoft Power BI to clean, transform, analyze, and visualize the data
 
+## Data Visualization
 
-## Data Exploration
-```
-EDA involved exploring the data to answer some questions about the data such as:
-
-1.	The Sales Rep whose Items are Pen Set and Binders 
-2.	Show sales of binder items and pencils in 2015 
-3.	Sales in Central and East regions in 2014 
-4.	Sales in August and September 2014
-5.	Show sales of items that start with 'Pen', including their region, sales rep, and year
-6.	Show sales of items that end with ‘sk’, including their region, sales rep, and year
-
-
-## Data Visualization:
-```
-To illustrate patterns and relationships present in the data, facilitating easier interpretation and communication of insights
+To illustrate patterns and relationships present in the data, facilitating easier interpretation and communication of insights.
 
 ![](DataAnalysisStudentsViz.png)
+
 
 ## Trend Analysis
 ```
