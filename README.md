@@ -1,5 +1,7 @@
 # SkillHarvest Data Analysis Training Cohort 2
 
+![](SkilHarvestLogo.png)
+
 I did an exploratory data analysis (EDA) on the stationaries supply of the SkilHarvest company to find various trends and insight for making informed decisions
 
 **Documentation Outline**
@@ -28,8 +30,9 @@ The primary objective of this project is to leverage data analysis techniques to
 
 ## Data Source
 ---
-The primary source used in this EDA is SkilHarvest_Stationary_Supply.csv. The data was provided by the SkilHarvest company.
-The data source for this project is a Google Sheet list containing the information of all students enrolled in the SkillHarvest Data Analysis Training Class for Cohort 2. This Excel file serves as the primary dataset for conducting data analysis and exploration.
+The data source for this project is a Google Sheet list containing the information of all students enrolled in the SkillHarvest Data Analysis Training Class for Cohort 2.
+
+The data can be found here [https://docs.google.com/spreadsheets/d/1j683Iej1rexP0ZklCt4CQSEjTZpUGAfhIirowQNtk80/edit#gid=120058417]
 
 ## Tools Used
 ---
@@ -54,7 +57,7 @@ EDA involved exploring the data to answer some questions about the data such as:
 ```
 To illustrate patterns and relationships present in the data, facilitating easier interpretation and communication of insights
 
-![](Viz2.png)
+![](DataAnalysisStudentsViz.png)
 
 ## Trend Analysis
 ```
