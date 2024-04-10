@@ -28,6 +28,23 @@ This analysis aimed to answer the following questions from the stationary supply
 4. Sales of items that start with Pen, include their region, sales rep and year?
 5. Sales of items that end with ‘sk’, include their region, sales rep and year?
 
+
+|-- README.md
+|-- data/
+|   |-- cohort2_student_data.xlsx
+|-- notebooks/
+|   |-- data_exploration.ipynb
+|   |-- trend_analysis.ipynb
+|-- src/
+|   |-- data_preprocessing.py
+|   |-- visualization.py
+|   |-- predictive_modeling.py
+|-- requirements.txt
+|-- LICENSE
+
+pip install -r requirements.txt
+
+
 ## Data Source
 ---
 The primary source used in this EDA is SkilHarvest_Stationary_Supply.csv. The data was provided by the SkilHarvest company.
